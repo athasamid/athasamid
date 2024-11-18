@@ -1,6 +1,6 @@
 Hi 👋 My name is Dhimas Atha
 ============================
-AIoT Manager at <a href="https://chickin.id">chickin indonesia</a><br\>
+AIoT Manager at <a href="https://chickin.id">chickin indonesia</a> and
 Maker and Fullstack Software Developer
 --------------------------------------
 
